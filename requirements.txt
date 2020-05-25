@@ -47,7 +47,7 @@ decorator==4.4.2
 defusedxml==0.6.0
 diff-match-patch==20181111
 distributed @ file:///home/conda/feedstock_root/build_artifacts/distributed_1588976153416/work
-Django==1.8.19
+Django==1.11.28
 docutils==0.16
 dropbox==10.1.2
 entrypoints==0.3
