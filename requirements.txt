@@ -2,6 +2,5 @@ notebook
 voila
 matplotlib
 numpy
-pylab
 ipywidgets
 warnings
